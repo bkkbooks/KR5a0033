@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0033/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0033/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清黃氣陽精三道順行經
+  date: '2015-08-28 23:35:11.739131'
+  source:
+    repository: kanripo
+    path: KR5a0033
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0033_000-HFL.yaml, hash: 'sha256:21b51e691efcab2075ebd71d28aaa84d1bd7115d2e9b3e6d16176ea33b1227f8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0033_000-HFL.markers.yaml, hash: 'sha256:586e37a26eff460e25a3e44a1c165ef36cdd9ad8b1f2f06528a94fc244b4a87a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0033_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 7160
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:49e258b1e771bde836b66e3af28e6e92ce4f1a1a84f5cd3f78208f535522c7e3
